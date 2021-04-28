@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap");
+
+:root {
+    font-family: 'Nunito', sans-serif;
+    background-color: rgba(24, 26, 27, 1);
+    overflow: hidden;
+}
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.container h1 {
+    font-weight: 300;
+    color: rgba(232, 230, 227, 1);
+}
+
+.container h3 {
+    font-weight: 300;
+    color: rgba(232, 230, 227, 1);
+}
+
+.container button {
+    color: rgba(232, 230, 227, 1);
+    background-color: rgba(105, 105, 105, 1);
+    font-family: 'Nunito', sans-serif;
+    padding: 0.3em 1.2em;
+    margin: 0 0.1em 0.1em 0;
+    border: 0.16em solid rgba(255, 255, 255, 0);
+    border-radius: 2em;
+    text-shadow: 0 0.04em 0.04em rgba(0, 0, 0, .35);
+    transition: all 0.2s;
+}
+
+.container button:hover {
+    border-color: rgba(255, 255, 255, 1);
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgba(232, 230, 227, 1);
+    text-align: center;
+}
+
+.heart {
+    color: rgba(255, 0, 0, 1);
+}
+
+footer a {
+    text-decoration: none;
+    color: rgba(232, 230, 227, 1);
+    font-weight: 700;
+}
