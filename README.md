@@ -1,8 +1,7 @@
 # 🕑 Time Wasted Counter 🕢
 
 <p style="text-align: center">
-  <img width="250" height="250" src="https://wasted.spacehutapp.com/assets/favicon.png" alt="Time Wasted Counter Logo"><br>
-  <a href="//discord.gg/HzJ3Gfr"><img src="https://img.shields.io/discord/739934735387721768?logo=discord" alt="Discord chat badge"></a>
+  <a href="//discord.gg/mTBrXyWxAF"><img src="https://img.shields.io/discord/739934735387721768?logo=discord" alt="Discord chat badge"></a>
   <a href="//github.com/kkrypt0nn/time-wasted-counter/commits/main"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/time-wasted-counter" alt="Number of commits badeg"></a>
   <a href="//github.com/kkrypt0nn/time-wasted-counter"><img src="https://img.shields.io/github/languages/code-size/kkrypt0nn/time-wasted-counter" alt="Code size badge"></a>
   <a href="//github.com/kkrypt0nn/time-wasted-counter/issues"><img src="https://img.shields.io/github/issues-raw/kkrypt0nn/time-wasted-counter" alt="Open issues counter badge"></a>
@@ -14,11 +13,9 @@ something.
 
 Do not hesitate to give it a star ✨ if you like it.
 
-[Here](https://wasted.spacehutapp.com) is where you can see the official website live.
-
 ## ❓ Support
 
-If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/HzJ3Gfr) or ask
+If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/mTBrXyWxAF) or ask
 in the [issues](https://github.com/kkrypt0nn/time-wasted-counter/issues) tab of this repository.
 
 ## 📂 Files Structure
